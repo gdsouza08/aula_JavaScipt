@@ -1,0 +1,4 @@
+- JavaScript  é uma linguagem de programação multiplataformas
+- Client siide, roda do lado do cliente
+- interafe com HTML
+- muito usado para páginas WEB e mobile
